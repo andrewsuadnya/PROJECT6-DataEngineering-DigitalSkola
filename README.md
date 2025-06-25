@@ -4,7 +4,7 @@
 
 This project is a continuation of a previous batch processing workflow. The main goal is to design and implement a data analytics pipeline using Hadoop to generate a **monthly order report**. The final output is a data mart table `total_orders_based_on_month` that aggregates order data from a PostgreSQL-based data warehouse using **MapReduce**.
 
-![PROJECT 6_Andrew Fortino Mahardika Suadnya (1)](https://github.com/user-attachments/assets/a7cd1daf-0574-46a3-bcd3-9212fc239179)
+![PROJECT 6_Andrew Fortino Mahardika Suadnya (1)](https://github.com/user-attachments/assets/7e25bd2d-f640-4306-9bb5-767978595685)
 ![PROJECT 6_Andrew Fortino Mahardika Suadnya (2)](https://github.com/user-attachments/assets/55df1687-d237-4ef8-974d-e30da1703f5a)
 
 ---
