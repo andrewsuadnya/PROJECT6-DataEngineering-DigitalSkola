@@ -56,11 +56,3 @@ The final data mart enables efficient reporting for business stakeholders and se
 ## 🔗 Related Projects
 
 * [Project 3 - Batch ETL to PostgreSQL Data Warehouse](https://github.com/andrewsuadnya/PROJECT3-DataEngineering-DigitalSkola): Initial ETL pipeline and PostgreSQL setup.
-
----
-
-## 👏 Acknowledgements
-
-* DigitalSkola - SIB Batch 6
-* Tutor & Reviewer Teams
-* Open-source contributors and reference tutorials
