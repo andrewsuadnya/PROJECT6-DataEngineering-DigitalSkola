@@ -30,8 +30,7 @@ Transform and summarize historical order data into a monthly-level reporting for
 | `month`        | Aggregated month (YYYY-MM)      |
 | `total_orders` | Total number of orders in month |
 
-Example output:
-
+output:
 ```
 month,total_orders
 "2022-01"	18
