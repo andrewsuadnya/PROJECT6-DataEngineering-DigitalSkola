@@ -1,4 +1,4 @@
-# 📊 Monthly Order Reporting using Hadoop MapReduce
+# 📈 Monthly Order Aggregation with Hadoop MapReduce
 
 ## 📄 Project Summary
 
